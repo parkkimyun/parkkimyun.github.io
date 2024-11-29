@@ -26,9 +26,9 @@ search: true
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -74,8 +74,8 @@ author:
       icon: "fa-solid fa-map-pin"
       url: "https://maps.app.goo.gl/RX2BWJnXfWYQN4Vz5"
     - label: "GitHub"
-      icon: "fa-brands fa-github"
-      url: "https://github.com/parkkimyun/parkkimyun.github.io"
+      icon: "fa-brands fa-github-alt"
+      url: "https://github.com/parkkimyun/"
 
 # Site Footer
 footer:
@@ -87,8 +87,8 @@ footer:
       icon: "fa-solid fa-map-pin"
       url: "https://maps.app.goo.gl/RX2BWJnXfWYQN4Vz5"
     - label: "GitHub"
-      icon: "fa-brands fa-github"
-      url: "https://github.com/parkkimyun/parkkimyun.github.io"
+      icon: "fa-brands fa-github-alt"
+      url: "https://github.com/parkkimyun/"
 
 defaults:
   # _posts
