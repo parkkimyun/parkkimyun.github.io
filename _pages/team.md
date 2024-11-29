@@ -54,18 +54,18 @@ His expertise lies in AI and <a href="https://stanford.edu/~boyd/">Convex Optimi
 with a proven track record of driving innovative projects across various industries.
 Prior to his current ventures, <a href="https://sungheeyun.github.io">Sunghee</a> co-founded <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a>
 and held the position of CTO.
-He was also a Fellow and VP @ <a href="https://www.skhynix.com/">SK hynix Inc.</a>,
-and led significant AI projects @ <a href="http://amazon.com">Amazon.com, Inc.</a>,
+<a href="https://sungheeyun.github.io">He</a> was also a Fellow and VP @ <a href="https://www.skhynix.com/">SK hynix Inc.</a>,
+and led significant AI projects @ <a href="https://amazon.com">Amazon.com, Inc.</a>,
 including one that generated an $200 MM USD increase in Amazon’s retail revenue through mobile shopping apps.
 
-<a href="https://sungheeyun.github.io">Sunghee</a>'s academic credentials include an M.S. and Ph.D. in <a href="https://ee.stanford.edu">Electrical Engineering</a> from <a href="http://stanford.edu">Stanford University</a>,
+<a href="https://sungheeyun.github.io">Sunghee</a>'s academic credentials include an M.S. and Ph.D. in <a href="https://ee.stanford.edu">Electrical Engineering</a> from <a href="https://stanford.edu">Stanford University</a>,
 and a B.S. in <a href="https://ece.snu.ac.kr/">Electrical Engineering</a> from <a href="https://en.snu.ac.kr/">Seoul National University</a>.
-He is committed to sharing his knowledge and experiences,
+<a href="https://sungheeyun.github.io">He</a> is committed to sharing his knowledge and experiences,
 serving as an Adjunct Professor @ <a href="https://sogang.ac.kr/en">Sogang University</a>
 and an Advisory Professor @ <a href="https://dgist.ac.kr/">Daegu Gyeongbuk Institute of Science and Technology (DGIST)</a>.
 As a <a href="https://www.salzburgglobal.org/multi-year-series/kfas/pageId/11076">KFAS-Salzburg Global Leadership Initiative Fellow</a>
 @ <a href="https://www.salzburgglobal.org/">Salzburg Global Seminar</a>,
-he focuses on addressing the societal and economic challenges posed by AI's rapid advancement,
+<a href="https://sungheeyun.github.io">he</a> focuses on addressing the societal and economic challenges posed by AI's rapid advancement,
 particularly examining its legal and ethical implications and impact on labor markets.
 With a diverse background spanning semiconductor design, strategic marketing, e-commerce, industrial AI, and biotech,
 <a href="https://sungheeyun.github.io/">Sunghee</a> brings a unique perspective and extensive experience to his current roles.
