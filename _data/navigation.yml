@@ -7,8 +7,8 @@ main:
 #    url: /technology
   - title: "Blog"
     url: /posts
-  - title: "Team"
-    url: /team
+#  - title: "Team"
+#    url: /team
 #  - title: "Tags"
 #    url: /tags
 #  - title: "categories"
