@@ -1,7 +1,7 @@
 ---
 layout: single
-title: About
-permalink: /todo-list/
+title: Action Items
+permalink: /action-items/
 ---
 
 <head>
@@ -18,7 +18,7 @@ permalink: /todo-list/
 		owner - Sunghee
 	</li>
 	<li>
-		priority - M
+		priority - L
 	</li>
 	<li>
 		written @ 29-Nov-2024 PST

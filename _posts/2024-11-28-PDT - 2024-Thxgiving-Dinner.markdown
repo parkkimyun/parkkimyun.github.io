@@ -1,5 +1,5 @@
 ---
-title: 2024 Thanksgiving Dinner
+title: 2024 Thanksgiving Dinner - 3rd off-line meeting
 date: Thu Nov 28 22:56:10 PST 2024  
 last_modified_at: Thu Nov 28 22:56:10 PST 2024  
 categories:
