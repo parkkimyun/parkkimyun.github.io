@@ -16,9 +16,9 @@
 
 repository: parkkimyun/parkkimyun.github.io
 
-title: AegisData.AI
+title: Longevity Healthcare Partners
 email: park.kim.yun.sv@gmail.com
-description: AI Data Industry Disrupter
+description: AI/Bio/Medical Data Industry Disrupter
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -61,8 +61,8 @@ plugins:
 
 # Site Author
 author:
-  name             : "AegisData.AI"
-  avatar           : "/assets/images/aegisdata-ai-logo.png"
+  name             : "Longevity Healthcare Partners"
+  avatar           : "/assets/images/favicons/logo/android-chrome-512x512.png"
   bio              : ""
 #  location         : "Silicon Valley"
 #  email            : park.kim.yun.sv@gmail.com
